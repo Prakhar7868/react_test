@@ -1,0 +1,44 @@
+[
+    {
+        "type": 1,
+        "month": "Jan",
+        "year" : "21",
+        "amount": 100
+    },
+    {
+        "type": 2,
+        "month": "Feb",
+        "year" : "22",
+        "amount": 150
+    },
+    {
+        "type": 1,
+        "month": "Mar",
+        "year" : "21",
+        "amount": 75
+    },
+    {
+        "type": 2,
+        "month": "Apr",
+        "year" : "21",
+        "amount": 200
+    },
+    {
+        "type": 1,
+        "month": "May",
+        "year" : "21",
+        "amount": 120
+    },
+    {
+        "type": 2,
+        "month": "Jun",
+        "year" : "21",
+        "amount": 250
+    },
+    {
+        "type": 1,
+        "month": "Jul",
+        "year" : "21",
+        "amount": 80
+    }
+]
